@@ -1,0 +1,22 @@
+﻿id_transfer;issuing_account;recipient_account;value;comment
+1;b2;b3;100;Impuestos
+2;None;b2;100;Recibo por cazar fantasmas
+3;b4;None;50;Regalo para peach
+4;None;b1;1000;Dinero por salvar a la princise
+5;None;b1;1000;compritas
+6;None;b1;100;dinero para comprar champiñones
+7;b1;None;2000;a cero me quedo
+8;b1;b3;100;impuestos
+9;None;b1;100;regalo de la mama por mi cumple
+10;None;b1;100;regalos
+11;b1;None;10;para luigi
+12;b1;b4;1000;Pago por destrución de castillo donde no estaba la princesa.
+13;None;b1;10;
+14;None;b1;100;
+15;None;b1;100;no
+16;None;b1;10;
+17;b1;None;10;
+18;None;b1;1000;
+19;None;b1;1000;
+20;b1;None;2000;
+21;b1;b3;1000;
