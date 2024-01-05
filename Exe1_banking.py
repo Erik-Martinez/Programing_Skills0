@@ -28,7 +28,7 @@ def log_in_funtion():
             num_attempts += 1
             os.system("cls")
             print(f"!!! Alguno de los datos no es correcto. Te quedan {3 - num_attempts} intentos !!!\n")
-            input("Pulsa enter para volver a intentar.")
+            input("Pulsa enter para continuar.")
 
     print("Has superado el número de intentos maximos.")
     exit()
